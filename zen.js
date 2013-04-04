@@ -11,7 +11,7 @@ function getZen() {
     if (err) { return; }
 
     if (res.statusCode !== 200 || res.headers['x-ratelimit-remaining'] < 1) {
-      process.stderr.write("Your are out of tries for now. Breathe\n");
+      process.stderr.write("** You are out of tries for now. Breathe\n");
       process.exit(0);
     }
 
