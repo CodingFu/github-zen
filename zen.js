@@ -40,7 +40,7 @@ if (process.argv.length > 2) {
     opts = {
       "auth": {
         "user": arg,
-        "password": chunk.toString()
+        "pass": chunk.toString().slice(0, -1) //trailing \n is removed
       }
     };
     getZen();
