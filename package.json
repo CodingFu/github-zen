@@ -1,0 +1,15 @@
+{
+  "name": "github-zen",
+  "version": "1.0.0",
+  "description": "Fetches github zen citations from https://api.github.com/zen and... well, may ban you for a while",
+  "main": "zen.js",
+  "repository": "http://github.com/CodingFu/github-zen",
+  "keywords": [
+    "strange"
+  ],
+  "author": "Seva Rybakov",
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "request": "~2.16.6"
+  }
+}
