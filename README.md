@@ -7,6 +7,9 @@ A tiny piece of javascript for watching zen streaming from GitHub API
 - ```$ ./zen.js```; 
 - Watch it.
 
+### Screenshot
+![Screenshot](/_screen/screen.png)
+
 ### Tips and tricks
 Default API limit is 60 requests per hour. You can enlarge it by passing your **GitHub** username as a first parameter.
 
