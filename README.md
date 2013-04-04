@@ -6,5 +6,5 @@ A tiny piece of javascript for watching zen streaming from GitHub API
 - Install node.js;
 - Clone the repo;
 - ```$ npm install```;
-- ```$ node zen.js```; 
+- ```$ ./zen.js```; 
 - Watch it.
