@@ -6,7 +6,7 @@ A tiny piece of javascript for watching zen streaming from GitHub API
 - Clone the repo;
 - ```$ npm install```;
 - ```$ ./zen.js```; 
-- Watch it.
+- Contemplate.
 
 ### Screenshot
 ![Screenshot](/_screen/screen.png)
